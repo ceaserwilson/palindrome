@@ -1,0 +1,16 @@
+write the html and css
+the list items will be added automatically
+there will be empty alert div at the top
+in the css the items will be aligned to the center
+in the js
+user enters input, the value of the input is converted
+to string and split() into an array, the array is now reverse()
+and set to a new variable.
+if the value1 === value2 then it is a palindrome
+if it is a palindrome we check if it has been already added
+to the list, if yes return palindrome already exists
+if no add palindrome to the list. 
+we will not work with local storage...we begin tomorrows
+
+
+
