@@ -10,7 +10,7 @@ if the value1 === value2 then it is a palindrome
 if it is a palindrome we check if it has been already added
 to the list, if yes return palindrome already exists
 if no add palindrome to the list. 
-we will not work with local storage...we begin tomorrows
+
 
 
 
